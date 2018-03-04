@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MEDI PLUS</string>
+
+    <string name="drug_details">Drug Data</string>
+    <string name="alarm_details">Alarm Details</string>
+    <string name="drug_name">Name</string>
+    <string name="drug_description">Description</string>
+    <string name="drug_price">Price</string>
+    <string name="alarm_add">Alarm Add</string>
+    <string name="alarm_date">Set Date</string>
+    <string name="alarm_time">Set Time</string>
+    <string name="shop_drugs">Shop for Drugs</string>
+
+    <string name="action_shopDrugs">Settings</string>
+</resources>
